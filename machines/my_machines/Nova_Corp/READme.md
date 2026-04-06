@@ -88,7 +88,7 @@ vulnerabilities look like and how to find them.
 Download the OVA file from Releases.
 Import into VirtualBox: File → Import Appliance.
 Set network adapter to Host-Only (vboxnet0).
-Start the VM.
+Start the VM. https://drive.google.com/file/d/1o1bOyC9iZwzXhMgdybGjlALis-Kp5nEC/view?usp=drive_link
 
 ### Step 2 — Add to your hosts file
 On your Kali Linux or attacking machine:
